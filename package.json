@@ -1,0 +1,23 @@
+{
+  "name": "studion-0n-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renansouza09/studion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renansouza09/studion/issues"
+  },
+  "homepage": "https://github.com/renansouza09/studion#readme",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
